@@ -1,0 +1,142 @@
+*{margin: 0px;}
+.oreja1
+{
+    background-color: rgb(238, 191, 169);
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    position: fixed;
+    top: 100px;
+    left: 300px;
+    border-width: 10px;
+    border-style: solid;
+    color: rgb(179, 109, 76);
+}
+.oreja2
+{
+    background-color: rgb(223, 191, 176);
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    position: fixed;
+    top: 100px;
+    left: 440px;
+    border-width: 10px;
+    border-style: solid;
+    color: rgb(179, 109, 76);
+}
+.cabeza
+{
+    background-color: rgb(179, 109, 76);
+    width: 190px;
+    height: 190px;
+    border-radius: 100px;
+    position: fixed;
+    top: 100px;
+    left: 300px;
+}
+.ojo1
+{
+    background-color: rgb(0, 0, 0);
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    position: fixed;
+    top: 150px;
+    left: 350px;
+    border-style: solid;
+    color: rgb(255, 255, 255);
+}
+.ojo2
+{
+    background-color: rgb(0, 0, 0);
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    position: fixed;
+    top: 150px;
+    left: 400px;
+    border-style: solid;
+    color: rgb(255, 255, 255);
+}
+.nariz
+{
+    background-color: rgb(133, 42, 42);
+    width: 30px;
+    height: 20px;
+    border-radius: 100px;
+    position: fixed;
+    top: 180px;
+    left: 380px;
+}
+.boca
+{
+    background-color: rgb(0, 0, 0);
+    width: 20px;
+    height: 10px;
+    border-radius: 100px;
+    position: fixed;
+    top: 220px;
+    left: 390px;
+
+}
+.torso
+{
+    background-color: rgb(179, 109, 76);
+    width: 230px;
+    height: 250px;
+    border-radius: 150px;
+    position: fixed;
+    top: 280px;
+    left: 280px;
+}
+.barriga
+{
+    background-color: rgb(221, 195, 165);
+    width: 150px;
+    height: 180px;
+    border-radius: 150px;
+    position: fixed;
+    top: 310px;
+    left: 320px;
+}
+.mano1
+{
+    background-color: rgb(179, 109, 76);
+    width: 80px;
+    height: 50px;
+    border-radius: 100px;
+    position: fixed;
+    top: 310px;
+    left: 250px;
+}
+.mano2
+{
+    background-color: rgb(179, 109, 76);
+    width: 80px;
+    height: 50px;
+    border-radius: 200px;
+    position: fixed;
+    top: 310px;
+    left: 460px;
+}
+.pie1
+{
+    background-color: rgb(179, 109, 76);
+    width: 80px;
+    height: 50px;
+    border-radius: 200px;
+    position: fixed;
+    top: 500px;
+    left: 440px;
+}
+.pie2
+{
+    background-color: rgb(179, 109, 76);
+    width: 80px;
+    height: 50px;
+    border-radius: 100px;
+    position: fixed;
+    top: 500px;
+    left: 270px;
+}
